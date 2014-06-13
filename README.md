@@ -1,4 +1,4 @@
-C--GDI--Raytracer
+.NET GDI+ Raytracer
 =================
 
-Created entirely for learning purposes.
+It's entirely CPU bound and damn slow.
